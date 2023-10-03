@@ -1,0 +1,86 @@
+[Running] cd "c:\Users\nehak\OneDrive\Desktop\Bluejay\Blue-Jay-Assignment\" && javac BlueJayDeliveryAssignment.java && java BlueJayDeliveryAssignment
+Invalid date-time format. Skipping line: Position ID,Position Status,Time,Time Out,Timecard Hours (as Time),Pay Cycle Start Date,Pay Cycle End Date,Employee Name,File Number
+Invalid date-time format. Skipping line: WFS000054,Active,,,,,,"SiWgh, PraGhjEM",000054
+Invalid date-time format. Skipping line: WFS000127,Active,09/18/2023 12:30 PM,,0:00,09/10/2023,09/23/2023,"GaXCes, EXias XEpez",000127
+Invalid date-time format. Skipping line: WFS000153,Active,09/18/2023 02:09 PM,,0:00,09/10/2023,09/23/2023,"CaMaXaWE, CeghaW",000153
+Invalid date-time format. Skipping line: WFS000153,Active,09/19/2023 01:41 PM,,0:00,09/10/2023,09/23/2023,"CaMaXaWE, CeghaW",000153
+Invalid date-time format. Skipping line: WFS000174,Active,,,,,,"MErres, EdAardE",000174
+Invalid date-time format. Skipping line: WFS000196,Active,,,,,,"XEpes, JerrEd",000196
+Invalid date-time format. Skipping line: WFS000256,Active,,,,,,"Ware, JEshAa",000256
+Invalid date-time format. Skipping line: WFS000432,Active,,,,,,"KaAr, ArviWder",000432
+Invalid date-time format. Skipping line: WFS000436,Active,,,,,,"WiXGard, Shadrack",000436
+Invalid date-time format. Skipping line: WFS000528,Active,09/22/2023 09:56 AM,,0:00,09/10/2023,09/23/2023,"CeciWa, SiXvesMre Jr",000528
+Invalid date-time format. Skipping line: WFS000529,Active,,,,,,"PearsEW, DeXviW DevEW",000529
+Invalid date-time format. Skipping line: WFS000532,Active,,,,,,"REiz, CarviW E",000532
+Invalid date-time format. Skipping line: WFS000553,Active,,,,,,"SEMEsEXis, Richar SMeveW",000553
+Invalid date-time format. Skipping line: WFS000591,Active,,,,,,"ArveXE RECerE, AWdres JesAs",000591
+"ArevaXE WFS000491 had less than 10 hours between shifts.
+"ArevaXE WFS000491 worked for more than 14 hours in a single shift.
+"WiXXiaCs WFS000511 had less than 10 hours between shifts.
+"WiXXiaCs WFS000511 worked 7 consecutive days.
+"WiXXiaCs WFS000511 worked for more than 14 hours in a single shift.
+"VasqAez WFS000391 had less than 10 hours between shifts.
+"VasqAez WFS000391 had less than 10 hours between shifts.
+"VasqAez WFS000391 worked 7 consecutive days.
+"VasqAez WFS000391 worked for more than 14 hours in a single shift.
+"HaCiXMEW WFS000536 had less than 10 hours between shifts.
+"Xee WFS000200 had less than 10 hours between shifts.
+"Xee WFS000200 had less than 10 hours between shifts.
+"Xee WFS000200 worked 7 consecutive days.
+"Xee WFS000200 worked for more than 14 hours in a single shift.
+"DeXgadiXXE REdarMe WFS000523 had less than 10 hours between shifts.
+"DeXgadiXXE REdarMe WFS000523 worked for more than 14 hours in a single shift.
+"AXcEcer WFS000541 had less than 10 hours between shifts.
+"AXcEcer WFS000541 had less than 10 hours between shifts.
+"AXcEcer WFS000541 had less than 10 hours between shifts.
+"AXcEcer WFS000541 worked 7 consecutive days.
+"AXcEcer WFS000541 worked for more than 14 hours in a single shift.
+"PayaW WFS000368 worked 7 consecutive days.
+"SiWgh WFS000246 had less than 10 hours between shifts.
+"SiWgh WFS000246 had less than 10 hours between shifts.
+"SiWgh WFS000246 worked 7 consecutive days.
+"SiWgh WFS000246 worked for more than 14 hours in a single shift.
+"SaWchez WFS000577 worked 7 consecutive days.
+"SaWchez WFS000577 worked for more than 14 hours in a single shift.
+"HAWMer WFS000538 had less than 10 hours between shifts.
+"HAWMer WFS000538 worked for more than 14 hours in a single shift.
+"GAMierrez WFS000579 worked for more than 14 hours in a single shift.
+"MraW WFS000345 worked 7 consecutive days.
+"Arias WFS000170 had less than 10 hours between shifts.
+"Arias WFS000170 had less than 10 hours between shifts.
+"Arias WFS000170 had less than 10 hours between shifts.
+"Arias WFS000170 worked 7 consecutive days.
+"Arias WFS000170 worked for more than 14 hours in a single shift.
+"GAeWdia WFS000473 had less than 10 hours between shifts.
+"GAeWdia WFS000473 worked 7 consecutive days.
+"GAeWdia WFS000473 worked for more than 14 hours in a single shift.
+"CaMaXaWE WFS000153 had less than 10 hours between shifts.
+"CaMaXaWE WFS000153 had less than 10 hours between shifts.
+"REdrigAez WFS000336 had less than 10 hours between shifts.
+"REdrigAez WFS000336 had less than 10 hours between shifts.
+"REdrigAez WFS000336 had less than 10 hours between shifts.
+"REdrigAez WFS000336 worked 7 consecutive days.
+"REdrigAez WFS000336 worked for more than 14 hours in a single shift.
+"XEpez WAWez WFS000522 worked for more than 14 hours in a single shift.
+"CEreira Jr WFS000456 had less than 10 hours between shifts.
+"CEreira Jr WFS000456 had less than 10 hours between shifts.
+"CEreira Jr WFS000456 worked for more than 14 hours in a single shift.
+"MAake WFS000228 had less than 10 hours between shifts.
+"MAake WFS000228 worked for more than 14 hours in a single shift.
+"FeXix WFS000183 had less than 10 hours between shifts.
+"FeXix WFS000183 had less than 10 hours between shifts.
+"FeXix WFS000183 had less than 10 hours between shifts.
+"FeXix WFS000183 worked 7 consecutive days.
+"FeXix WFS000183 worked for more than 14 hours in a single shift.
+"ErEpeza WFS000382 had less than 10 hours between shifts.
+"ErEpeza WFS000382 had less than 10 hours between shifts.
+"ErEpeza WFS000382 worked 7 consecutive days.
+"ErEpeza WFS000382 worked for more than 14 hours in a single shift.
+"CcRAWWeX WFS000501 had less than 10 hours between shifts.
+"CcRAWWeX WFS000501 worked 7 consecutive days.
+"CcRAWWeX WFS000501 worked for more than 14 hours in a single shift.
+"IWGEAa WFS000546 had less than 10 hours between shifts.
+"IWGEAa WFS000546 worked for more than 14 hours in a single shift.
+"ErEzcE WFS000442 worked for more than 14 hours in a single shift.
+
+[Done] exited with code=0 in 1.967 seconds
